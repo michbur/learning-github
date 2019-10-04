@@ -1,1 +1,1 @@
-fsgfdsgs
+print(1:10)

@@ -1,0 +1,1 @@
+Tu wrzucamy commity w folderach o nazwie NazwiskoImie.
